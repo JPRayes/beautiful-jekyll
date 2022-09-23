@@ -103,22 +103,41 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 
 </style>
 
- .gs-section-02 h1 {
-  color: #5987a6;
-  font-size: 32px;
-  font-family:Book Antiqua;
-  }
+<style>
 
-  .gs-section-03 h1 {
-  color: #5987a6;
-  font-size: 24px;
-  font-family: Book Antiqua;
-  }
-
-  .gs-section-04 h1 {
-  color: #5987a6;
-  font-size: 24px;
-  font-family: Book Antiqua;
-  }
+  .gs-section-02 h2 {
+  color: #5987a6; }
+  
+  .gs-section-02 h2 {
+  font-size: 32px; }
+  
+  .gs-section-02 h2 {
+  font-family: Book Antiqua; }
 
 </style>
+
+<style>
+
+  .gs-section-03 h3 {
+  color: #5987a6; }
+  
+  .gs-section-03 h3 {
+  font-size: 32px; }
+  
+  .gs-section-03 h3 {
+  font-family: Book Antiqua; }
+
+</style>
+<style>
+
+  .gs-section-04 h4 {
+  color: #5987a6; }
+  
+  .gs-section-04 h4 {
+  font-size: 32px; }
+  
+  .gs-section-04 h4 {
+  font-family: Book Antiqua; }
+
+</style>
+
