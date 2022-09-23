@@ -90,14 +90,30 @@ Edit the `_config.yml` file to change any settings you want. To edit the file, c
 
 Note that in the video above only one setting in the `_config.yml` file is edited. **You should actually go through the rest of the settings as well. Don't be lazy, go through all the settings!**
 
-</div>
-
-
 <style>
+
 .gs-section-01 h1 {
-  color: #5F9EA0  }
-  
-  .gs-section-01 p {
-  font-size: 24px }
-  
+  color: #5987a6;
+  font-size: 32px;
+  font-family: Book Antiqua;
+  }
+
+ .gs-section-02 h2 {
+  color: #5987a6;
+  font-size: 32px;
+  font-family:Book Antiqua;
+  }
+
+  .gs-section-03 h3 {
+  color: #5987a6;
+  font-size: 24px;
+  font-family: Book Antiqua;
+  }
+
+  .gs-section-04 h4 {
+  color: #5987a6;
+  font-size: 24px;
+  font-family: Book Antiqua;
+  }
+
 </style>
