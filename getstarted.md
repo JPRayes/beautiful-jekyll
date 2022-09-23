@@ -97,27 +97,27 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 .gs-section-01 h3 {
   color: #5987a6 }
   
-.gs-section-01 h3 {
+.gs-section-01 p {
   font-size: 32px; }
   
 </style>
 
 <style>
 
-  .gs-section-02 h3 {
+.gs-section-02 h3 {
   color: #5987a6; }
   
-  .gs-section-02 h3 {
+.gs-section-02 p {
   font-size: 32px; }
 
 </style>
 
 <style>
 
-  .gs-section-03 h3 {
+.gs-section-03 h3 {
   color: #5987a6; }
   
-  .gs-section-03 h3 {
+.gs-section-03 p {
   font-size: 32px; }
 
 </style>
